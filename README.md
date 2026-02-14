@@ -664,14 +664,6 @@ The hypothetical point in time at which technological growth becomes uncontrolla
 #  KYRILLOS KERNEL (v0) - THE GENESIS BOOTLOADER
 # ____________________________________________________________________________________________________
 
-> **Architecture:** x86 (16-bit Real Mode)  
-> **Type:** Monolithic Boot Sector  
-> **Binary Size:** 512 Bytes (Exact)  
-> **Status:** Low-level Hardware Initialization  
-> **License:** MIT / Public Domain
-
----
-
 ## 📋 Table of Contents
 1.  [Abstract](#abstract)
 2.  [Build Instructions](#build-instructions)
